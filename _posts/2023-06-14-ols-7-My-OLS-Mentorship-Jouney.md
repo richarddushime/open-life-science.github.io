@@ -9,25 +9,25 @@ authors: Richard Dushime Mudahera
 
 # Implementing Facial Recognition and Biometric Attendance Monitoring in Educational and Corporate Settings
 <img src="https://drive.google.com/uc?id=103Sq7VKmF_0hbVLNaG1peviF6mOlevdU"
-     alt="sample image"
+     alt="Project Logo"
      style="display: block; margin-right: auto; margin-left: auto; width: 50%;" />
 
 Hello 👋, I'm **Richard Dushime**, and I'm thrilled to take you on a transformative journey through my mentorship experience with Open Seeds (OLS) Cohort 7. In this blog, I will share the remarkable story of my journey, focusing on the project I worked on to implement facial recognition and biometric attendance monitoring in educational and corporate settings. Join me as we uncover the challenges faced, the elements of success encountered, and the profound impact this journey has had on both my personal growth and the domains I am passionate about. Together, let's delve into the power of open science, foster collaboration, and make a lasting impact.
 
 ## **Project Background**
 <img src="https://drive.google.com/uc?id=18T9Yq9MxduQQDlc9jUzVE_k5yK_IpFyX"
-     alt="sample image"
+     alt="Home view"
      style="display: block; margin-right: auto; margin-left: auto; width: 90%;" />
      
 The project aims to leverage the power of facial recognition technology and biometric attendance monitoring to enhance efficiency and accuracy in educational and corporate environments. By utilizing these advanced technologies, the project seeks to streamline attendance tracking processes, eliminate manual errors, and provide a seamless experience for both students and employees. The motivation behind this project stems from the increasing need for accurate and reliable attendance management systems. Traditional methods, such as manual sign-in sheets or swipe cards, are prone to errors, buddy punching, and time-consuming administrative tasks. To address these challenges, the project sets out to develop a secure solution that ensures reliable attendance tracking while reducing administrative burden.
 
 ## **Program Expectations**
-![](https://drive.google.com/uc?id=1W-LDeic-k_6mMx4Tj31OiE3hiSIQd3qP)
+![OLS Group Picture](https://drive.google.com/uc?id=1W-LDeic-k_6mMx4Tj31OiE3hiSIQd3qP)
 This program surpassed my expectations, offering valuable lessons in diversity, inclusivity, openness, and the ethical considerations of working with advanced technologies. Connecting and sharing with like-minded individuals in the community expanded my knowledge and perspective. It was a transformative learning journey.
 
 ## **Goals**
 <img src="https://drive.google.com/uc?id=1bk8kxs6CGkS9ac8s3KHK9jydAn9ZGQSr"
-     alt="sample image"
+     alt="Goals"
      style="display: block; margin-right: auto; margin-left: auto; width: 50%;" />
      
 In participating in the OLS program, my primary goal was to gain knowledge and skills in implementing facial recognition and biometric attendance monitoring in educational and corporate settings. I aimed to deepen my understanding of open science principles and promote their adoption within communities. Specifically, my project focused on developing a secure solution to streamline attendance tracking, eliminate errors, and enhance efficiency. Ethical considerations and data privacy were also key priorities throughout the project.
