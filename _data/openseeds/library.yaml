@@ -553,6 +553,13 @@ Tooling for Collaboration:
       cohort: ols-7
       speakers: []
     - slides: 
+        https://docs.google.com/presentation/d/e/2PACX-1vQ5k5Bw3DOSu4asYY2qnHZQSyQqaeqxFcqzUV6oxeBdHlopJ7OZQ-YEG4h3Z_kn-kUyccY8qNdXd69k/pub
+      speakers:
+      - yochannah
+      title: GitHub for Collaboration
+      date: October 17, 2023
+      cohort: ols-8
+    - slides: 
         https://docs.google.com/presentation/d/e/2PACX-1vTBcMEhNCbU2KVuFaMonMCXFGH5xd8zs6FKkEC27lwbG2elPc22XrxjMesjkNZ_YH1-yKsHGuwIKedW/pub
       speakers:
       - bebatut
@@ -824,7 +831,7 @@ Open Science:
         https://docs.google.com/presentation/d/1V0ns7MiBRlKWgJHq15Xy-q0HZOeJYdkKs0PMAMoKXn8/edit?usp=sharing
       speakers:
       - lwasser
-      title: "Open Source Drives Open Science - \npyOpenSci"
+      title: Open Source Drives Open Science - pyOpenSci
       recording: https://youtu.be/hOiDzn4Iqp4?t=1594
       date: May 10, 2023
       cohort: ols-7
@@ -1781,13 +1788,6 @@ Not sorted:
   Not tagged:
     description: .nan
     talks:
-    - slides: 
-        https://docs.google.com/presentation/d/e/2PACX-1vQ5k5Bw3DOSu4asYY2qnHZQSyQqaeqxFcqzUV6oxeBdHlopJ7OZQ-YEG4h3Z_kn-kUyccY8qNdXd69k/pub
-      speakers:
-      - yochannah
-      title: GitHub for Collaboration
-      date: October 17, 2023
-      cohort: ols-8
     - slides: 
         https://docs.google.com/presentation/d/e/2PACX-1vTCjL3-TcltgCN9RcRvooI-wUViuSFgtfm0pnXNGer5K7APtZKdtN4ITy8HdZkJBEcRzQFhOmmnH-23/pub
       title: Open Science Garden(s)
